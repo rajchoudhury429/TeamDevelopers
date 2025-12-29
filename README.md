@@ -1,4 +1,4 @@
-# Hi 👋 I'm [Your Name]
+# Hi 👋 I'm Raj Choudhury
 
 🎓 Student | 💻 Aspiring Developer  
 🌱 Learning programming and building projects step by step
